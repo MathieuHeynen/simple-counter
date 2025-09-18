@@ -35,10 +35,13 @@ code {
   color: whitesmoke;
 }
 
+.resetButton {
+}
+
 Button {
   font-size: larger;
   font-weight: bold;
   padding: 20px;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
 }
